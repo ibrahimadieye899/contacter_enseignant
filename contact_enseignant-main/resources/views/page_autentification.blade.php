@@ -1,0 +1,1 @@
+<div>Page d'autentification avec formulaire</div>
